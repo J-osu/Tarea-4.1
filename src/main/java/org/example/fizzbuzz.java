@@ -6,11 +6,11 @@ public class fizzbuzz {
     static Scanner sc = new Scanner(System.in);
     public static void main(String[] args) {
         //fizzbuzz.numerdo10();
-        fizzbuzz.Clear();
+        //fizzbuzz.Clear();
         fizzbuzz.numeroN();
-        fizzbuzz.Clear();
+        //fizzbuzz.Clear();
         fizzbuzz.bizzbuss();
-        fizzbuzz.Clear();
+        //fizzbuzz.Clear();
         fizzbuzz.Ejercicio15();
     }
 
@@ -25,7 +25,8 @@ public class fizzbuzz {
     }
 
     public static void numerdo10(){
-        for (int i = 1; i < 11; i++) {
+        //Comentario de muestro para el commit.
+        for (int i = 5; i < 11; i++) {
             System.out.println(i);
         }
     }
