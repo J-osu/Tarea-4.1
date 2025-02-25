@@ -61,7 +61,7 @@ public class fizzbuzz {
             boolean divisiblede3 = i % 3 == 0;
             boolean divisiblede5 = i % 5 == 0;
             if (divisiblede3 && divisiblede5) {
-                System.out.println("fizzbuzz");
+                System.out.println("osopas");
             } else if (divisiblede3) {
                 System.out.println("fizz");
             } else if (divisiblede5) {
