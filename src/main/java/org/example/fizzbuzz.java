@@ -42,6 +42,7 @@ public class fizzbuzz {
     }
 
     public static int sumarN(int n){
+        //tines que introducir un numero.
         System.out.println("Introduce el valor de n: ");
         n = fizzbuzz.sc.nextInt();
         int suma = 0;
@@ -53,6 +54,7 @@ public class fizzbuzz {
     }
 
     public static void bizzbuss(){
+         //tines que introducir un numero.
         System.out.print("Introduce un numero: ");
         int num = sc.nextInt();
         for (int i = 1; i<= num ; i++) {
