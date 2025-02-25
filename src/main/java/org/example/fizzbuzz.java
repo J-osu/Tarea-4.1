@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class fizzbuzz {
     static Scanner sc = new Scanner(System.in);
     public static void main(String[] args) {
-        fizzbuzz.numerdo10();
+        //fizzbuzz.numerdo10();
         fizzbuzz.Clear();
         fizzbuzz.numeroN();
         fizzbuzz.Clear();
